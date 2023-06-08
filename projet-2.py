@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May  6 22:03:46 2023
-
-@author: Fadhel Mohamed Aziz
-"""
 
 import sqlite3
 import tkinter as tk
